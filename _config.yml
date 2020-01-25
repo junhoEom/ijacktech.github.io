@@ -20,7 +20,7 @@ title                    : "아이잭의 이것저것 - junhoeom.github.io/techb
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "취미로 밥벌이 하고픈 개발자"
-description              : "업무는 JAVA 취미는 FLUTTER/PYTHON"
+description              : "업무는 Java 취미는 Flutter / Python"
 url                      : "https://junhoeom.github.io/techblog/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -107,10 +107,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  name             : "취미로 밥벌이 하고픈 개발자"
+  avatar           : "/assets/images/1a84a96f4b9a94.png"
+  bio              : "업무는 Java 취미는 Flutter / Python"
+  location         : "South Korea"
   email            :
   links:
     - label: "Email"
